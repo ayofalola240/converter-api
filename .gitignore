@@ -1,0 +1,15 @@
+/node_modules
+package-lock.json
+.env
+*.log
+
+/data/bin/*
+/data/input/answers/*
+/data/input/questions/*
+/data/output/*
+/data/logs/*
+
+/node_modules
+package-lock.json
+
+gitlab_rsa
